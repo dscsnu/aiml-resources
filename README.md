@@ -46,7 +46,7 @@
 
 ----------
 
-### 🛠️ 7. Tools & Libraries
+### 🛠️ 6. Tools & Libraries
 
 #### 📝 NLP Tools
 
@@ -83,7 +83,7 @@
 
 ----------
 
-### 📦 8. Pre-trained Model Libraries
+### 📦 7. Pre-trained Model Libraries
 
 -   [Hugging Face Models](https://huggingface.co/models)
 -   [TensorFlow Hub](https://tfhub.dev/)
@@ -91,7 +91,7 @@
 
 ----------
 
-### 📊 6. Dataset Sources
+### 📊 8. Dataset Sources
 
 -   [Kaggle Datasets](https://www.kaggle.com/datasets)
 -   [Google Dataset Search](https://datasetsearch.research.google.com/)
@@ -106,7 +106,7 @@
 
 ----------
 
-### 🎓 10. Tutorials & Blogs
+### 🎓 9. Tutorials & Blogs
 
 -   [Papers with Code](https://paperswithcode.com/)
 -   [Medium](https://medium.com)
