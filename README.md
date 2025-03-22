@@ -84,6 +84,12 @@
 -   [Pandas](https://pandas.pydata.org/docs/)
 -   [SciPy](https://docs.scipy.org/doc/scipy/)
 
+### 🎯 Reinforcement Learning Tools
+
+-   [TorchRL](https://pytorch.org/rl/stable/index.html)
+-   [PyQlearning](https://pypi.org/project/pyqlearning/)
+-   [TensorForce](https://github.com/tensorforce/tensorforce)
+
 ----------
 
 ### 📦 7. Pre-trained Model Libraries
