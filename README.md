@@ -1,7 +1,7 @@
 
 ## 📚 AI/ML Resources
 
-### 📝 1. Programming Basics
+### 💻 1. Programming Basics
 
 -   [Python Docs](https://docs.python.org/3/)
 -   [The Hitchhiker's Guide to Python](https://docs.python-guide.org/)
@@ -16,9 +16,9 @@
 
 ----------
 
-### 🔥 3. ML Frameworks
+### ⚡ 3. ML Frameworks
 
-#### 🧠 PyTorch
+#### 🔦 PyTorch
 
 -   [PyTorch Docs](https://pytorch.org/docs/stable/index.html)
 -   [PyTorch Recipes](https://pytorch.org/tutorials/recipes/recipes_index.html)
@@ -30,7 +30,7 @@
 
 ----------
 
-### 📚 4. ML Fundamentals
+### 📑 4. ML Fundamentals
 
 -   [3Blue1Brown: Neural Networks Playlist](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 -   [StatQuest: Machine Learning Playlist](https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF)
@@ -48,18 +48,21 @@
 
 ### 🛠️ 6. Tools & Libraries
 
-#### 📝 NLP Tools
+#### 🔡 NLP Tools
 
 -   [Hugging Face Transformers](https://huggingface.co/docs/transformers/index)
+-   [Hugging Face Tokenizers](https://huggingface.co/docs/tokenizers/index)
 -   [SpaCy](https://spacy.io/usage)
 -   [NLTK](https://www.nltk.org/)
 -   [Gensim](https://radimrehurek.com/gensim/)
+-   [Sentence Transformers](https://sbert.net)
 
 #### 📸 Computer Vision Tools
 
 -   [OpenCV](https://docs.opencv.org/master/)
 -   [Pillow](https://pillow.readthedocs.io/en/stable/index.html#)
 -   [Torchvision](https://pytorch.org/vision/stable/index.html)
+-   [Hugging Face timm](https://huggingface.co/docs/timm/index)
 -   [Tesseract OCR](https://tesseract-ocr.github.io/tessdoc/Installation.html)
 
 #### 🎧 Audio Tools
@@ -90,8 +93,13 @@
 -   [Torch Hub](https://pytorch.org/hub/)
 
 ----------
+### 🚂 8. Training and Optimization
 
-### 📊 8. Dataset Sources
+-   [Hugging Face Accelerate](https://huggingface.co/docs/accelerate/index)
+-   [Torch Optim](https://pytorch.org/docs/stable/optim.html)
+-   [Hugging Face Autotrain](https://huggingface.co/docs/autotrain/index)
+
+### 〽️ 9. Dataset Sources
 
 -   [Kaggle Datasets](https://www.kaggle.com/datasets)
 -   [Google Dataset Search](https://datasetsearch.research.google.com/)
@@ -106,10 +114,11 @@
 
 ----------
 
-### 🎓 9. Tutorials & Blogs
+### 🎓 10. Tutorials & Blogs
 
 -   [Papers with Code](https://paperswithcode.com/)
 -   [Medium](https://medium.com)
 -   [Towards Data Science](https://towardsdatascience.com/)
+-   [Neptune.ai Blog](https://neptune.ai/blog)
 -   [Fast.ai Blog](https://www.fast.ai/)
 -   [Distill.pub](https://distill.pub/)
