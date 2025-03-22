@@ -84,7 +84,7 @@
 -   [Pandas](https://pandas.pydata.org/docs/)
 -   [SciPy](https://docs.scipy.org/doc/scipy/)
 
-### 🎯 Reinforcement Learning Tools
+#### 🎯 Reinforcement Learning Tools
 
 -   [TorchRL](https://pytorch.org/rl/stable/index.html)
 -   [PyQlearning](https://pypi.org/project/pyqlearning/)
