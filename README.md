@@ -87,6 +87,8 @@
 #### 🎯 Reinforcement Learning Tools
 
 -   [TorchRL](https://pytorch.org/rl/stable/index.html)
+-   [StableBaselines3](https://stable-baselines3.readthedocs.io/en/master/)
+-   [Gymnasium](https://gymnasium.farama.org)
 -   [PyQlearning](https://pypi.org/project/pyqlearning/)
 -   [TensorForce](https://github.com/tensorforce/tensorforce)
 
